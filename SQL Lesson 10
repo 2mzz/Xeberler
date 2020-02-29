@@ -1,2 +1,2 @@
 //Question 1
-SELECT Name, MAX(Years_employed) FROM em
+SELECT Name, MAX(Years_employed) FROM emp

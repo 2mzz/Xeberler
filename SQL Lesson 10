@@ -5,4 +5,4 @@ SELECT Name, MAX(Years_employed) FROM employees;
 SELECT Role, AVG(years_employed)FROM employees GROUP BY role
 
 //Question 3
-SELECT Building, SU
+SELECT Building, SUM(

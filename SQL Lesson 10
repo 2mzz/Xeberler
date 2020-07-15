@@ -9,4 +9,4 @@ SELECT Building, SUM(Years_employed)
 FROM Employees GROUP BY Building;
 
 //Question 4
-SEL
+SELE

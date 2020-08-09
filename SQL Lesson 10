@@ -10,4 +10,4 @@ FROM Employees GROUP BY Building;
 
 //Question 4
 SELECT Building,COUNT(*) 
-FROM Emp
+FROM Empl

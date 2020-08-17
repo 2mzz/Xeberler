@@ -11,4 +11,4 @@ FROM Employees GROUP BY Building;
 //Question 4
 SELECT Building,COUNT(*) 
 FROM Employees 
-WHERE Building G
+WHERE Building GR

@@ -13,4 +13,4 @@ SELECT Building,COUNT(*)
 FROM Employees 
 WHERE Building GROUP BY Building;
 
-//Questi
+//Questio

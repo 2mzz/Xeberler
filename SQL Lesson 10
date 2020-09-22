@@ -15,4 +15,4 @@ WHERE Building GROUP BY Building;
 
 //Question 5
 SELECT Years_employed,round(count(*)*1.0*100/(select count(*) from employees)) as rate
-F
+FR

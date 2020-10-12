@@ -17,4 +17,4 @@ WHERE Building GROUP BY Building;
 SELECT Years_employed,round(count(*)*1.0*100/(select count(*) from employees)) as rate
 FROM employees
 where Years_employed in(1,3,5,7)
-gr
+grou

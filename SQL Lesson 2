@@ -1,2 +1,2 @@
 //Question 1
-SELECT * FROM movies W
+SELECT * FROM movies WH

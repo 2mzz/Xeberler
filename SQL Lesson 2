@@ -2,4 +2,4 @@
 SELECT * FROM movies WHERE Id = 6
 
 // Question 5
-SELECT * FROM movies WHERE yea
+SELECT * FROM movies WHERE year

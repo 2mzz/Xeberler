@@ -5,4 +5,4 @@ SELECT * FROM movies WHERE Id = 6
 SELECT * FROM movies WHERE year >= 2010 and Length_minutes < 120;
 
 //Question 6
-SELECT Year, Length_minutes FROM movies WHERE 
+SELECT Year, Length_minutes FROM movies WHERE y

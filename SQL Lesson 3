@@ -1,3 +1,5 @@
 
 //Question 1
 SELECT * FROM movies where title LIKE "%Toy Story%";
+
+//Question 2

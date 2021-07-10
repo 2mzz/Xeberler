@@ -10,3 +10,5 @@ SELECT * FROM movies where director != "John Lasseter";
 
 //Question 4
 SELECT * FROM movies WHERE title LIKE "WALL%"
+//Question 6
+SELECT title, director, year FROM movies where director LIKE "%Pete%"

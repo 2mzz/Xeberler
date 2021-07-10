@@ -7,3 +7,5 @@ SELECT * FROM movies where director = "John Lasseter";
 
 //Question 3
 SELECT * FROM movies where director != "John Lasseter";
+
+//Question 4

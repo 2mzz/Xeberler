@@ -14,3 +14,5 @@ SELECT * FROM movies WHERE title LIKE "WALL%"
 SELECT title, director, year FROM movies where director LIKE "%Pete%"
 
 //Question 7
+SELECT * FROM movies WHERE director = "John Lasseter" 
+                     AND title LIKE "%Car%" OR title LIKE "%Toy Story%" AND year > 2000

@@ -4,3 +4,5 @@ SELECT DISTINCT Director FROM movies;
 
 //Question 2
 SELECT * FROM movies ORDER BY year DESC LIMIT 4;
+
+//Question 3

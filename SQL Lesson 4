@@ -13,3 +13,5 @@ SELECT * FROM movies ORDER BY title ASC LIMIT 5 OFFSET 5;
 
 //Question 5
 SELECT title FROM movies WHERE director = "John Lasseter" ORDER BY Length_minutes DESC LIMIT 1 OFFSET 2;
+
+//Question 6

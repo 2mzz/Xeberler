@@ -1,2 +1,2 @@
 //Question 1
-SELECT * FROM movies INNER JOIN b
+SELECT * FROM movies INNER JOIN bo

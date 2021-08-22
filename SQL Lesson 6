@@ -1,2 +1,2 @@
 //Question 1
-SELECT * FROM movies INNER JOIN boxoffci
+SELECT * FROM movies INNER JOIN boxoffcie

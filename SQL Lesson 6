@@ -1,2 +1,2 @@
 //Question 1
-SELECT * FROM movies INNER JOIN boxoffcie on movies.id = boxoff
+SELECT * FROM movies INNER JOIN boxoffcie on movies.id = boxoffi

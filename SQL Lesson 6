@@ -2,4 +2,4 @@
 SELECT * FROM movies INNER JOIN boxoffcie on movies.id = boxoffice.movie_id
 
 //Question 2
-SELECT 
+SELECT *

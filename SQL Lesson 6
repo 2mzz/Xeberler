@@ -5,4 +5,4 @@ SELECT * FROM movies INNER JOIN boxoffcie on movies.id = boxoffice.movie_id
 SELECT * FROM movies INNER JOIN boxoffice ON movies.id = boxoffice.movie_id WHERE international_sales > domestic_sales;
 
 //Question 3
-SELECT * FROM movies INNER JOIN boxoffice ON movies.id = boxoffice.movie_id 
+SELECT * FROM movies INNER JOIN boxoffice ON movies.id = boxoffice.movie_id O

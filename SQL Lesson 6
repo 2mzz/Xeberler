@@ -7,4 +7,4 @@ SELECT * FROM movies INNER JOIN boxoffice ON movies.id = boxoffice.movie_id WHER
 //Question 3
 SELECT * FROM movies INNER JOIN boxoffice ON movies.id = boxoffice.movie_id ORDER BY rating DESC;
 
-//Question
+//Question 

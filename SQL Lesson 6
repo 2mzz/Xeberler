@@ -8,4 +8,4 @@ SELECT * FROM movies INNER JOIN boxoffice ON movies.id = boxoffice.movie_id WHER
 SELECT * FROM movies INNER JOIN boxoffice ON movies.id = boxoffice.movie_id ORDER BY rating DESC;
 
 //Question 4
-SELECT * FROM movies INNER JOIN boxoffice O
+SELECT * FROM movies INNER JOIN boxoffice ON

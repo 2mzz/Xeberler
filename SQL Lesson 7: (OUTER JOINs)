@@ -1,2 +1,2 @@
 //Question 1
-SELECT DISTINCT building FROM emp
+SELECT DISTINCT building FROM empl

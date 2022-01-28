@@ -1,2 +1,2 @@
 //Question 1
-SELECT DISTINCT building FROM employees WHERE build
+SELECT DISTINCT building FROM employees WHERE buildi

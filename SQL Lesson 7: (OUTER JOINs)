@@ -4,4 +4,4 @@ SELECT DISTINCT building FROM employees WHERE buildings
 //Question 2
 SELECT * from Buildings
 
-//Q
+//Qu

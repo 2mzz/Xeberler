@@ -5,4 +5,4 @@ SELECT DISTINCT building FROM employees WHERE buildings
 SELECT * from Buildings
 
 //Question 3
-SELECT DISTINCT building_name, role FROM buildings L
+SELECT DISTINCT building_name, role FROM buildings LE

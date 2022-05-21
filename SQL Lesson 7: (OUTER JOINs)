@@ -8,4 +8,4 @@ SELECT * from Buildings
 SELECT DISTINCT building_name, role FROM buildings LEFT JOIN employees ON buildings.building_name = employees.building 
 
 //Question 4
-SELECT DISTINCT Building, capacity FROM Employ
+SELECT DISTINCT Building, capacity FROM Employee

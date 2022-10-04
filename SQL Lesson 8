@@ -1,2 +1,2 @@
 //Question 1
-SELECT Name, Role FROM emp
+SELECT Name, Role FROM empl

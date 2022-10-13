@@ -1,2 +1,2 @@
 //Question 1
-SELECT Name, Role FROM employees WHERE Build
+SELECT Name, Role FROM employees WHERE Buildin

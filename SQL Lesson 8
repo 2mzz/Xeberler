@@ -1,2 +1,2 @@
 //Question 1
-SELECT Name, Role FROM employees WHERE Building is NUL
+SELECT Name, Role FROM employees WHERE Building is NULL

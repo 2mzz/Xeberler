@@ -2,4 +2,4 @@
 SELECT Name, Role FROM employees WHERE Building is NULL;
 
 //Question 2
-SELECT Bu
+SELECT Bui

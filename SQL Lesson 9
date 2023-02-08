@@ -9,3 +9,4 @@ SELECT Id, Title, (Rating)*10 as Total FROM movies INNER JOIN Boxoffice ON movie
 SELECT Id, Title, Year FROM movies INNER JOIN Boxoffice ON movies.id = Boxoffice.Movie_id WHERE Year % 2 = 0;
 
 //Question 4
+SELECT Title, (Domestic_sales + International_sales) / Length_minutes AS per FROM movies INNER JOIN

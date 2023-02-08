@@ -7,3 +7,5 @@ SELECT Id, Title, (Rating)*10 as Total FROM movies INNER JOIN Boxoffice ON movie
 
 //Question 3
 SELECT Id, Title, Year FROM movies INNER JOIN Boxoffice ON movies.id = Boxoffice.Movie_id WHERE Year % 2 = 0;
+
+//Question 4

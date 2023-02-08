@@ -10,3 +10,4 @@ SELECT Id, Title, Year FROM movies INNER JOIN Boxoffice ON movies.id = Boxoffice
 
 //Question 4
 SELECT Title, (Domestic_sales + International_sales) / Length_minutes AS per FROM movies INNER JOIN
+Boxoffice ON movies.id = Boxoffice.Movie_id  WHERE Director = "John Lasseter" ORDER BY Per DESC LIMIT 3;

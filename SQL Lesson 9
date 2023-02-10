@@ -13,3 +13,4 @@ SELECT Title, (Domestic_sales + International_sales) / Length_minutes AS per FRO
 Boxoffice ON movies.id = Boxoffice.Movie_id  WHERE Director = "John Lasseter" ORDER BY Per DESC LIMIT 3;
 
 //q5
+SELECT Title, length(Title),(Domestic_sales + International_sales) AS Total FROM movies INNER JOIN 

@@ -14,3 +14,4 @@ Boxoffice ON movies.id = Boxoffice.Movie_id  WHERE Director = "John Lasseter" OR
 
 //q5
 SELECT Title, length(Title),(Domestic_sales + International_sales) AS Total FROM movies INNER JOIN 
+Boxoffice ON movies.id = Boxoffice.Movie_id ORDER BY length(Title) DESC LIMIT 3;

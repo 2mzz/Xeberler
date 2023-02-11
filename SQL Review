@@ -1,2 +1,3 @@
 
 　//Question 1
+SELECT * FROM North_american_cities WHERE Country = "Canada";

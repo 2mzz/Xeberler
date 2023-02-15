@@ -3,3 +3,4 @@
 SELECT * FROM North_american_cities WHERE Country = "Canada";
  
  //Question 2
+SELECT * FROM north_american_cities where Country like "United States" order by Latitude desc

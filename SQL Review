@@ -7,3 +7,5 @@ SELECT * FROM north_american_cities where Country like "United States" order by 
 
 //Question 3
 SELECT * FROM north_american_cities WHERE Longitude < -87.629798 ORDER BY Latitude DESC
+
+//Question 4

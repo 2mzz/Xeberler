@@ -9,3 +9,4 @@ SELECT * FROM north_american_cities where Country like "United States" order by 
 SELECT * FROM north_american_cities WHERE Longitude < -87.629798 ORDER BY Latitude DESC
 
 //Question 4
+SELECT * FROM north_american_cities WHERE country = "Mexico" ORDER BY population LIMIT 2 OFFSET 1

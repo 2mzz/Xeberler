@@ -15,3 +15,4 @@ SELECT * FROM north_american_cities WHERE country = "Mexico" ORDER BY population
 SELECT * FROM north_american_cities WHERE country = "United States" ORDER BY population DESC LIMIT 2 OFFSET 2;
 
 //Question 6
+SELECT * FROM north_american_cities ORDER BY country, population DESC LIMIT 10
